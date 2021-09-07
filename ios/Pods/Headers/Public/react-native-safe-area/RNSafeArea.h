@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-safe-area/ios/RNSafeArea/RNSafeArea.h

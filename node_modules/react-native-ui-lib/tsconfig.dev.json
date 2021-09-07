@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig",
+  "include": ["src/**/*", "typings/**/*"],
+  "exclude": ["node_modules", "src/index.ts"]
+}
